@@ -10,13 +10,19 @@ CLONE REPO OR DOWNLOAD FILE
 ---------------------
 CHANGE DIRECTORIES
 ----------------------
-```$/C: cd Headhunter```
+```
+$/C: cd Headhunter
+```
 -------------------
 INSTALL REQUIREMENTS
 ----------------
-```$/C: pip3 install -r requirements.txt```
+```
+$/C: pip3 install -r requirements.txt
+```
 -------------------
 RUN
 ------------
-```$/C: python3 headhunter.py```
+```
+$/C: python3 headhunter.py
+```
 -----------------
